@@ -102,3 +102,12 @@ p
     display: block;
     text-align: center;
 }
+
+.note 
+{
+text-align: center;
+background-color: red;
+width: 882px;
+margin: auto;
+display: block;
+}
